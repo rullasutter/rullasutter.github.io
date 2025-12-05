@@ -1,4 +1,5 @@
-Hi I’m a Doctoral Student specialised at inequality, social security, poverty and civil society at the University of Neuchatel & the University of Applied Science Bern.
+Hi.
+I’m a Doctoral Student specialised at inequality, social security, poverty and civil society at the University of Neuchatel & the University of Applied Science Bern.
 
 Interested in the *dashboard prototype* we built for Caritas data? Follow [here](https://arbor.bfh.ch/entities/publication/e2b9b3be-0485-4eb1-b474-dc1c27a00624)
 
